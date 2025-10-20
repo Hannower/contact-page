@@ -50,6 +50,6 @@ As seções se reorganizam automaticamente para manter uma boa experiência visu
 
 ## 🚀 Como Acessar o Projeto
 
-[Clique aqui para acessar o projeto publicado]()
+[Clique aqui para acessar o projeto publicado](https://hannower.github.io/contact-page/)
 
-<!-- Falta colocar link do site -->
+
