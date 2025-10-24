@@ -52,4 +52,4 @@ As seções se reorganizam automaticamente para manter uma boa experiência visu
 
 <!-- [Clique aqui para acessar o projeto publicado](https://hannower.github.io/contact-page/) -->
 
-<a href="https://github.com/Hannower/contact-page.git" target="_blank">Clique aqui para acessar o projeto publicado</a>
+<a target="_blank" href="https://hannower.github.io/contact-page/" >Clique aqui para acessar o projeto publicado</a>
